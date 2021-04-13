@@ -2,7 +2,7 @@ choose _being_ agile over _doing_ agile
 
 We expect our teams to be similar but different, shaped by the context they are in but expressing the same principles
 
-What Andy Longshaw calls "2021 style agile" 
+What Andy Longshaw calls "2021 style software development" 
 
 # Principles
 
