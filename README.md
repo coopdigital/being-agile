@@ -18,7 +18,9 @@ These are in git because they should change as we learn
 
 # Themes
 
-## Closed-loop Control
+## Systems Thinking
+
+### Closed-loop Control
 
 Prefer _closed-loop control_. This is the difference between having a thermostat on your central heating (a closed loop exists between the boiler and the temperature in your house) and only having a time clock that turns your boiler on and off (open loop [sic]). It's the difference between actively steering your car and just pointing it in the direction of your destination and hoping for the best. It's the difference between adding a little salt to a dish and tasting it to see if it needs more, and lobbing in a handful all at once. Most industrial control systems implement closed-loop control in terms of minimizing an error, or difference, between the present situation and the set point which represent the goal. That could be: difference between the current and target temperature, lack of tastiness, or remaining journey time to destination.
 
@@ -28,7 +30,7 @@ At the largest scale, for us this shows up as "Digital" thinking: rather than se
 
 This way of working is much _easier_ than requiring everyone to be really, really good at prediction, and much more _effective_, and much _lower risk_. It does, however, require everyone to be comfortable with the idea that the current state of the code, service, product, whatever it is we work on, is now and always will be imperfect and unfinished. And also changing and improving all the time, but imperfect and unfinished. And everyone needs to be comfortable with the idea of planned re-work, we plan to work again on what was worked on before, and everyone needs to be comfortable with the possibility of needing to back-track, to revert or roll back a change and try something different. In that sense, this closed-loop way of working is less "efficient", it is intrinsically more wasteful than doing the right thing once. Trouble is, in almost all economically interesting cases, doing the right thing once is infeasibly difficult.
 
-## Systems Thinking
+### More General Systems
 
 Closed-loop control is a specific case of Systems Thinking. The action of the closed loop is to converge on a stable equilibrium through _negative feedback_. If A and B influence each other in a loop, but in opposed directions (more A means more B, but more B means less A), then there is negative feedback. Introducing closed-loop control is a big step forward over open loops.
 
