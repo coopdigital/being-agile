@@ -14,19 +14,17 @@ What Andy Longshaw calls "2021 style software development"
 
 These are in git because they should change as we learn
 
-## Principles for applying principles
-The above principles are supposed to guide teams in deciding how they should work, not be a "one true way" doctrine. As such, there are some principles both teams, and those who lead them, need to remember what deciding how to work.
+## Leadership Principles
+The above principles are the seeds of our culture, but that garden must be actively cultivated by our leaders, and they should use these principles to guide their actions.
 
-### Team Principles
-- Be self-organising, adapting how they work based on feedback from the world around them.
-- Be pragmatic, choosing to deliver imperfectly value over delivering nothing perfectly.
-
-### Leadership Principles
 - Allow their team to self-organise.
+	- Don't treat your team as your execution arm. If the team are happy with something you're not, either convince them otherwise or bite your tongue.
 	- Don't direct people to work how you want them to work. Instead, convince them of the value of your idea, and let them decide what to do about it.
-	- A leader must never say "everyone must mob". That's not leadership, that's management, and it acts to suppress the creativity of your team.
-- Ensure their team understand **why** they should work in a certain way.
+	- A leader must never say something like "everyone must mob". That's not leadership, that's management, and it acts to suppress the creativity of your team.
+- Ensure their team understand **why** they are working in a certain way.
 	- We don't want cargo culting from disengaged teams. If asked "why do you work this way", we don't want to hear "because X told us to".
+- Cultivate a safe environment where people can talk about problems with the team
+	- All problems are leadership problems, and a team **always** has problems. If you think your team doesn't have problems, it's because they're not telling you about them.
 
 ----
 
