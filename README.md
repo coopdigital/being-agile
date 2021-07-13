@@ -7,7 +7,7 @@ What Andy Longshaw calls "2021 style software development"
 ## Principles
 
 * Working on everything _over_ working only in my specialism
-* Working together _over_ working alone
+* [Working together _over_ working alone](principles/working-together)
 * Releasing to users often _over_ accumulating changes
 * Working at a pace we can maintain _over_ working with urgency
 * Checking it was valuable _over_ meeting requirements
