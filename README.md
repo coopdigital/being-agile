@@ -24,6 +24,7 @@ The above principles are supposed to guide teams in deciding how they should wor
 ### Leadership Principles
 - Allow their team to self-organise.
 	- Don't direct people to work how you want them to work. Instead, convince them of the value of your idea, and let them decide what to do about it.
+	- A leader must never say "everyone must mob". That's not leadership, that's management, and it acts to suppress the creativity of your team.
 - Ensure their team understand **why** they should work in a certain way.
 	- We don't want cargo culting from disengaged teams. If asked "why do you work this way", we don't want to hear "because X told us to".
 
