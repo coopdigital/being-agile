@@ -1,16 +1,16 @@
 # Choose _being_ agile over _doing_ agile
 
-We expect our teams to be similar but different, shaped by the context they are in but expressing the same principles
+We expect our teams to be similar but different, each one shaped in detail by the specifics of the context it is in but all expressing the same principles in its general operation.
 
 What Andy Longshaw calls "2021 style software development" 
 
 ## Principles
 
-* Working on everything _over_ working only in my specialism
+* The will to work on anything that's needed _over_ working only in my specialism
 * Working together _over_ working alone
 * Releasing to users often _over_ accumulating changes
 * Working at a pace we can maintain _over_ working with urgency
-* Checking it was valuable _over_ meeting requirements
+* Checking that work products are valuable _over_ meeting requirements
 
 These are in git because they should change as we learn
 
@@ -28,15 +28,15 @@ At the finest-grained level, for us that shows up as TDD. Rather than set the So
 
 At the largest scale, for us this shows up as "Digital" thinking: rather than set Product Managers the task of creating a perfect product or service by predicting what the market and the users will find valuable, instead we create an environment in which they can continuously, incrementally improve the value to the user, guided by feedback from the users themselves.
 
-This way of working is much _easier_ than requiring everyone to be really, really good at prediction, and much more _effective_, and much _lower risk_. It does, however, require everyone to be comfortable with the idea that the current state of the code, service, product, whatever it is we work on, is now and always will be imperfect and unfinished. And also changing and improving all the time, but imperfect and unfinished. And everyone needs to be comfortable with the idea of planned re-work, we plan to work again on what was worked on before, and everyone needs to be comfortable with the possibility of needing to back-track, to revert or roll back a change and try something different. In that sense, this closed-loop way of working is less "efficient", it is intrinsically more wasteful than doing the right thing once. Trouble is, in almost all economically interesting cases, doing the right thing once is infeasibly difficult.
+This way of working is much _easier_ than requiring everyone to be really, really good at prediction, and much more _effective_, and much _lower risk_. It does, however, require everyone to be comfortable with the idea that the current state of the code, service, product, whatever it is we work on, is now and always will be imperfect and unfinished. And also changing and improving all the time, but imperfect and unfinished. And everyone needs to be comfortable with the idea of planned re-work; we plan to work again on what was worked on before, and everyone needs to be comfortable with the possibility of needing to back-track, to revert or roll back a change and try something different. In that sense, this closed-loop way of working is less "efficient", hour by hour and maybe day by day, it is intrinsically more wasteful than doing the right thing once. Trouble is, in almost all economically interesting cases, doing the right thing once is infeasibly difficult.
 
 ### More General Systems
 
 Closed-loop control is a specific case of Systems Thinking. The action of the closed loop is to converge on a stable equilibrium through _negative feedback_. If A and B influence each other in a loop, but in opposed directions (more A means more B, but more B means less A), then there is negative feedback. Introducing closed-loop control is a big step forward over open loops.
 
-Another step is to consider the effect of _positive feedback_, which leads away from otherwise stable equilibria. If A and B influence each other, but in the same directions (more A means more B, more B means more A) then the system will very quickly reach a state of maximum A and B and stay there. The presence of both kinds of feedback in a system opens the possibility of regular cyclical behaviour, maybe with several intermediate states which can recur in complex patterns, through to semi-period behaviour, and then fully chaotic behaviour. A fully general system can appear to have very tightly constrained, regular behaviour, and then for no very obvious reason, suddenly change to completely different behaviour. The weather does this. Markets do this. Teams do this.
+Another step is to consider the effect of _positive feedback_, which leads away from otherwise stable equilibria. If A and B influence each other, but in the same directions (more A means more B, more B means more A) then the system will very quickly reach a state of maximum A and maximum B and stay there. The presence of both kinds of feedback in a system opens the possibility of cyclical behaviour, maybe with several intermediate states which may recur in complex patterns, through to semi-periodic behaviour, and then fully chaotic behaviour. A fully general system can appear to have very tightly constrained, regular behaviour, and then for no very obvious reason, suddenly change to completely different behaviour. The weather does this. Markets do this. Teams do this.
 
-Systems are characterised by a boundary, across which matter, energy, and information flow. The system boundary is _chosen_.  Systems are extended in time and space. The parts of a system interact, and the behaviour of the whole system has more to do with those interactions than it does with the properties of the parts themselves. 
+Systems are characterised by a boundary, across which matter, energy, and information flow. The system boundary is _chosen_.  Systems are extended in time and space. The parts of a system interact, and the behaviour of the whole system has more to do with those interactions than it does with the properties of the parts themselves. This is as true of the system of delivery, which is made mostly of people and their intereactions, than it is of the information systems we build.
 
 The revolutionary insight of systems thinking was that simple parts, interacting with each other in simple ways can, taken as a whole, have arbitrarily rich and complex behaviour. Because a system is distributed in space, the cause of an effect can be far away. Because a system is distributed in time, the cause of an effect can be far in the past. This makes it very hard to understand why a system does what it does, and thus very hard to make it do what we want. This is as true of the information systems we build as it is of systems which "just grow". Such as teams. Such as businesses.
 
