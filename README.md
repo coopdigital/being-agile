@@ -14,6 +14,18 @@ What Andy Longshaw calls "2021 style software development"
 
 These are in git because they should change as we learn
 
+## Leadership Principles
+The above principles are the seeds of our culture, but that garden must be actively cultivated by our leaders, and they should use these principles to guide their actions.
+
+- Allow their team to self-organise.
+	- Don't treat your team as your execution arm. If the team are happy with something you're not, either convince them otherwise or bite your tongue.
+	- Don't direct people to work how you want them to work. Instead, convince them of the value of your idea, and let them decide what to do about it.
+	- A leader must never say something like "everyone must mob". That's not leadership, that's management, and it acts to suppress the creativity of your team.
+- Ensure their team understand **why** they are working in a certain way.
+	- We don't want cargo culting from disengaged teams. If asked "why do you work this way", we don't want to hear "because X told us to".
+- Cultivate a safe environment where people can talk about problems with the team
+	- All problems are leadership problems, and a team **always** has problems. If you think your team doesn't have problems, it's because they're not telling you about them.
+
 ----
 
 # Themes
